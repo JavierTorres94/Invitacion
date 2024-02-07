@@ -1,0 +1,4 @@
+Con esta Practica concluyo que es muy sencillo hacer hiper texto y realizar
+el acomodo de los elementos en mi archivo de html, aprendi mas sobre las rutas relativas y sobre como
+moverme dentro de mis archivos desde vscode. 
+Practique los usos de el <br>, los titulos y parrafos.
